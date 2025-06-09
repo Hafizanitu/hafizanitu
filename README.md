@@ -19,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hafizanitu2213?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvmlulwjcqpmxf0jzej0e%2fa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafizanitu2213?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvmlulwjcqpmxf0jzej0e%2fa%3d%3d" height="30" width="40" /></a>
 <a href="https://kaggle.com/hafizasultananitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafizasultananitu" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/share/1CM1ttE27Z/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naliah nitu" height="30" width="40" /></a>
-<a href="https://instagram.com/naliah nitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naliah nitu" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1cm1tte27z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1cm1tte27z/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hafiza_nitu?igsh=mxyzaxbyyzgyoxlkaw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hafiza_nitu?igsh=mxyzaxbyyzgyoxlkaw==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/reels-heal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reels-heal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/iff1kwhsve/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/iff1kwhsve/" height="30" width="40" /></a>
 <a href="https://discord.gg/nitu0655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nitu0655" height="30" width="40" /></a>
@@ -36,4 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizanitu&show_icons=true&locale=en&layout=compact" alt="hafizanitu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizanitu&show_icons=true&locale=en" alt="hafizanitu" /></p>
+
 
